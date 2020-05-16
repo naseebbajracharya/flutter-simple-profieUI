@@ -1,8 +1,7 @@
 # profile_app
 
-A new Flutter project.
+Simple Profile App - Getting Started
 
-## Getting Started
 
 This project is a starting point for a Flutter application.
 
