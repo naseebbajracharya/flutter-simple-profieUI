@@ -33,7 +33,7 @@ class App extends StatelessWidget {
               onPressed: (){
 
               },
-              child: Text("Say Hello"),
+              child: Text("Logout"),
             ),
               ],
             ),
@@ -42,7 +42,7 @@ class App extends StatelessWidget {
 
             ListTile(
               title: Center(child:Text("About", style: TextStyle(fontSize: 18),)),
-              subtitle: Text("I play the character named Captain Steve Rogers aka Captain America in Marvel Cinematic Unierse", style: TextStyle(fontSize: 16),),
+              subtitle: Text("THIS IS A DEMO TEXT. THIS IS A DEMO TEXT. THIS IS A DEMO TEXT. THIS IS A DEMO TEXT. THIS IS A DEMO TEXT.", style: TextStyle(fontSize: 16),),
             ),
           ],
         )
